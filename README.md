@@ -5,9 +5,7 @@
 
 ## Installation
 
-```sh
-zplug "ev-agelos/geometry-git-stashes"
-```
+It is included in the geometry theme.
 
 ## Configuration
 
